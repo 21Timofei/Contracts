@@ -1,3 +1,3 @@
-module github.com/21Timofei/Contracts
+module Contracts
 
 go 1.23
